@@ -1,0 +1,35 @@
+[*]RealProtect_Exploit Changelog:
+
+1.0 
+First release
+1.1
+Fix xfakeplayers exploit; kick and add ip at banlist
+Fix chat messages preceded by "#" exploit, for example: #Cstrike_GIGN_Label
+1.2
+Fix upload/download exploit
+Fix SpecBug expoit
+1.3
+Fix Autobuy exploit
+1.4 - COMING SOON!
+Added plugin and dproto autobuy.
+
+[*]RealProtect_Spam Changelog:
+
+First release
+Punishes Player for Spamming by Blocking his Chat/Name
+Custom Spam Blocking/Punishment
+Dynamic Name Spam Detection 
+Server-Side Warn & Kick Counter 
+Blocks On Client Connect Chat Flood Spams 
+Blocks Fast Name/Chat Spam. 
+Blocks Repeated Chat Messages/ Names
+Blocks Custom Strings or Patterns 
+Blocks IP Address Spams
+Blocks Website Spams
+Blocks Overflow Spams
+Blocks Client-Side Coloured Chat Scripts
+Server Announcement to Public about Spammer 
+MOTD Message Display (Warning Spammer)
+Custom Bans
+Custom Immunity Flags
+Support for Bots
