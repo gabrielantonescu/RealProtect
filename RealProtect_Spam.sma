@@ -5,7 +5,7 @@
 #include <regex>
 #include <nvault>
 
-#define CLASA_SERVER_LICENTIAT " 89.39.13."
+#define CLASA_SERVER_LICENTIAT " 0.0.0."
 
 #pragma tabsize 0
 #pragma dynamic 8192
