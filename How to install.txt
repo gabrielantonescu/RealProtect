@@ -1,0 +1,17 @@
+Install RealProtect_Exploit:
+1. Put "RealProtect_Exploit.amxx" in [ addons/amxmodx/plugins ]
+2. Put "RealProtect_Exploit.sma" in [ addons/amxmodx/scritpting ]
+3. Open [ addons/amxmodx/configs/plugins.ini ] and delete "plmenu.amxx" and add in TOP:
+
+Code:
+RealProtect_Exploit.amxx
+
+(Step 3 is necesary to fix SpecBug)
+
+Install RealProtect_Spam:
+
+1. Put "RealProtect_Spam.amxx" in [ addons/amxmodx/plugins/ ]
+2. Write "RealProtect_Spam.amxx" at the TOP of [ addons/amxmodx/configs/plugins.ini ]
+3. Create a New Folder in [ addons/amxmodx/configs/ ] and Name it ".RealP"
+4. Put "RealP_Configs.cfg" and "RealP_Patterns.cfg" in [ addons/amxmodx/configs/RealP/ ]
+5. Disable "antiflood.amxx"
